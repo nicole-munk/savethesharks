@@ -1,0 +1,18 @@
+body{
+    font-family: "Baloo Tamma 2";
+    color: white;
+    background-image: url(/resources/about.jpg);
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+
+a:link{
+    color: lightskyblue;
+}
+
+a:visited{
+    color: greenyellow;
+}

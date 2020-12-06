@@ -1,0 +1,24 @@
+body {
+    font-family: "Baloo Tamma 2";
+    background-image: url(/resources/menuimage.jpg);
+    background-size: cover;
+}
+
+.but {
+    text-align: center;
+}
+
+.playbutton {
+    width: 750px;
+    height: 250px;
+    font-size: 100px;
+    background-color: lightskyblue;
+    font-family: 'Nerko One';
+    border: 7px solid SteelBlue;
+    cursor: pointer;
+    border-radius: 50px; 
+}
+
+.playbutton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
